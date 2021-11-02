@@ -1,5 +1,11 @@
 body{background-color: gray;}
-.
-.card{width:400px; height:600px; background-color:white;padding:50px;margin:50px; align}
-.dogPic{max-width: 400px; height:300px; display:block;}
+#cardHolder{
+    display: flex;
+    flex-wrap: wrap;
+    width:100%
+
+}
+.mainTitle{color: white; text-align: center;}
+.card{width:200px; height: 200x; background-color:white;padding:50px;margin:50px; text-align: center;}
+.dogPic{max-width:200px; display:block;}
 
